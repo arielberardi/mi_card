@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="./screenshot.png" width="250" height="500">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
